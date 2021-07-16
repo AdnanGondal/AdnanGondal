@@ -3,19 +3,19 @@
 
 - 🔭 I’m currently working on [the Odin Project curriculum.](www.theodinproject.com)
 
-- 🌱 I’m currently learning **Javascript, React, Backend development.**
+- 🌱 I’m currently learning **Javascript, React, Node.js.**
 
 - 👯 I’m looking to collaborate on **Hackathons, Projects and Start-Up ideas.**
 
-- 👨‍💻 All of my projects are available at [[coming soon...]]([coming soon...])
+- 👨‍💻 All of my projects are available at ...(Coming Soon!)
 
-- 📝 I regularly write articles on [[coming soon...]]([coming soon...])
+- 📝 I regularly write articles on ...(Coming Soon!)
 
-- 💬 Ask me about **Medical Imaging, Neurotechnology**
+- 💬 Ask me about **Medical Imaging, Neurotechnology and Teaching**
 
 - 📫 How to reach me **adnangondal1@hotmail.com**
 
-- 📄 Know about my experiences [[coming soon...]]([coming soon...])
+- 📄 Know about my experiences ...(Coming Soon!)
 
 - ⚡ Fun fact **I love Bollywood Music.**
 
