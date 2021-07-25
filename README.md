@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center">An Engineering Graduate, currently training to become a Software Developer.</h3>
+<h3 align="center"> I am an Engineering graduate, currently training to become a Software Engineer.</h3>
 
 - 🔭 I’m currently working on [the Odin Project curriculum.](www.theodinproject.com)
 
-- 🌱 I’m currently learning **Javascript, React, Node.js.**
+- 🌱 I’m currently learning **Advanced Javascript**
 
 - 👯 I’m looking to collaborate on **Hackathons, Projects and Start-Up ideas.**
 
 - 👨‍💻 All of my projects are available at ...(Coming Soon!)
 
 - 📝 I regularly write articles on ...(Coming Soon!)
-
-- 💬 Ask me about **Medical Imaging, Neurotechnology and Teaching**
 
 - 📫 How to reach me **adnangondal1@hotmail.com**
 
