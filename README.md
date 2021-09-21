@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [something new.](https://www.sigmalabs.xyz/about-us)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Python and Data Science**
 
 - 👯 I’m looking to collaborate on **Hackathons, Projects and Start-Up ideas.**
 
