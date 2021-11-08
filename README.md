@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center"> I am an Engineering graduate, currently training to become a Software Engineer.</h3>
+<h3 align="center"> I am an Engineering graduate, and full-stack developer. </h3>
 
 - 🔭 I’m currently working on [something new.](https://www.sigmalabs.xyz/about-us)
 
