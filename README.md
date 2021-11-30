@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center"> I am an Engineering graduate, and full-stack developer. </h3>
+<h3 align="center"> I am a full-stack developer, and engineering graduate. </h3>
 
 - 🔭 I’m currently working on [something new.](https://www.sigmalabs.xyz/about-us)
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently learning **Scala**
 
 - 👯 I’m looking to collaborate on **Hackathons, Projects and Start-Up ideas.**
 
-- 👨‍💻 All of my projects are available at ...(Coming Soon!)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://www.adnangondal.me/)
 
 - 📝 I regularly write articles on ...(Coming Soon!)
 
