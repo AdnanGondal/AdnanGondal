@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [something new.](https://www.sigmalabs.xyz/about-us)
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **Hackathons, Projects and Start-Up ideas.**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://www.adnangondal.me/)
-
-- 📝 I regularly write articles on ...(Coming Soon!)
 
 - 📫 How to reach me **adnangondal1@hotmail.com**
 
