@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
-<h3 align="center"> I am a full-stack developer, and engineering graduate. </h3>
+<h3 align="center"> I am a full-stack developer based in London </h3>
 
-- 🔭 I’m currently working on [something new.](https://www.sigmalabs.xyz/about-us)
+- 🔭 I’m currently working with Java Springboot!
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Clean Code**
 
 - 👯 I’m looking to collaborate on **Hackathons, Projects and Start-Up ideas.**
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://www.adnangondal.me/)
+- 👨‍💻 All of my projects are available at my Portfolio (Coming Soon)
 
 - 📫 How to reach me **adnangondal1@hotmail.com**
 
-- 📄 Know about my experiences [here.](https://adnangondal.github.io/WebCV/)
+- 📄 Know about my experiences (Coming Soon)
 
 - ⚡ Fun fact **I love Bollywood Music.**
 
