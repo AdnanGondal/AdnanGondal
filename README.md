@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center"> I am a full-stack developer based in London </h3>
 
-- 🔭 I’m currently working with Java Springboot!
+- 🔭 I’m currently working with **Java Springboot**
 
 - 🌱 I’m currently learning **Clean Code**
 
-- 👯 I’m looking to collaborate on **Hackathons, Projects and Start-Up ideas.**
-
-- 👨‍💻 All of my projects are available at my Portfolio (Coming Soon)
+- 👯 I’m looking to collaborate on **Hackathons and Projects**
 
 - 📫 How to reach me **adnangondal1@hotmail.com**
 
-- 📄 Know about my experiences (Coming Soon)
+- 📄 Know about my experiences (CV: Coming Soon)
 
 - ⚡ Fun fact **I love Bollywood Music.**
 
