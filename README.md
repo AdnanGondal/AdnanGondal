@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **adnangondal1@hotmail.com**
 
-- 📄 Know about my experiences (CV: Coming Soon)
+- 📄 Know about my experiences [here](https://adnangondal.co.uk/)
 
 - ⚡ Fun fact **I love Bollywood Music.**
 
